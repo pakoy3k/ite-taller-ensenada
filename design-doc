@@ -67,15 +67,18 @@ No elabores minuciosamente la implementación.
 Solution 1
 *Frontend
 -Se utilizara el framework React y Reactnative
+
 Backend
-Backend…
+-Python con Flask para el manejo del la informacion en API REST
+-Mysql
 
 Solution 2
 Frontend
-Frontend…
+-Android studio con Kotlin
 
 Backend
-Backend…
+-Golang como plataforma en paralelo para el API 
+-MongoDB
 
 Consideraciones
 Preocupaciones / trade-offs / tech debt
