@@ -1,0 +1,84 @@
+TITULO DEL DESIGN DOC
+Link: Link a este design doc
+
+Author(s): ITE ensenada
+
+Status: [Draft, Ready for review, In Review, Reviewed]
+
+Ultima actualización: 2022-11-12
+
+Contenido
+Goals
+Non-Goals
+Background
+Overview
+Detailed Design
+Solucion 1
+Frontend
+Backend
+Solucion 2
+Frontend
+Backend
+Consideraciones
+Métricas
+Links
+Un link
+Otro link
+
+Objetivo
+
+Que y porque estamos haciendo esto?
+
+Incluye contexto para las personas que no están familiarizadas con el proyecto.
+
+Mantenlo corto, elabora en Background, Overview y Detailed Design
+
+Añade screenshots / mocks si lo ves necesario
+
+Goals
+Goals
+Non-Goals
+Non-Goals
+Background
+Cuál es el contexto de este proyecto?
+
+Incluye recursos, como otros design docs si es necesario
+
+No escribas acerca de tu diseño o requerimientos aquí
+
+Overview
+Overview a alto nivel de tu propuesta
+
+Esta sección debería ser entendible por nuevos miembros de tu equipo que no están relacionados al proyecto
+
+Pon detalles en la siguiente sección
+
+Detailed Design
+Usa diagramas donde veas necesario
+
+Herramientas como Excalidraw son buenos recursos para esto
+
+Cubre los cambios principales:
+
+- Cuales son las nuevas funciones que vas a escribir? - Porque necesitas nuevos componentes? - Hay código que puede ser reusable?
+
+No elabores minuciosamente la implementación.
+
+Solution 1
+*Frontend
+-Se utilizara el framework React y Reactnative
+Backend
+Backend…
+
+Solution 2
+Frontend
+Frontend…
+
+Backend
+Backend…
+
+Consideraciones
+Preocupaciones / trade-offs / tech debt
+
+Métricas
+Que información necesitas para validar antes de lanzar este feature?
